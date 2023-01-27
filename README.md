@@ -4,7 +4,7 @@ Working:
 - Ethernet
 - Keyboard
 - USB
-- 
+
 Not Working:
 - Touchpad
 - Touchscreen
