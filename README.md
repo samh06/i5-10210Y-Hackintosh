@@ -4,6 +4,7 @@ Working:
 - Ethernet
 - Keyboard
 - USB
+- SSD (NVME)
 
 Not Working:
 - Touchpad
