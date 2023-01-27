@@ -1,4 +1,4 @@
-# i5-10210Y
+# i5-10210Y Hackintosh
 Working:
 - Screen
 - Ethernet
